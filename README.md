@@ -53,7 +53,7 @@ tiny_diffusion_model/
 To install the project locally:
 
 ```bash
-git clone https://github.com/your-username/tiny_diffusion_model.git
+git clone https://github.com/PedroBritodSa/tiny_diffusion_model.git
 cd tiny_diffusion_model
 pip install -e .
 ```
@@ -80,7 +80,10 @@ It shows how to train the model and generate new samples from noise.
 
 ## Why This Exists
 
-Diffusion models can seem complicated at first. This project breaks them down into their essential components using small datasets and simple code. It's meant for anyone trying to understand how these models actually work, not how to make them faster or more powerful.
+This project shows how diffusion models work by using small datasets and simple code. It's made for personal learning, not for speed or performance.
+
+The code is based on a more complete open-source project: https://github.com/yuanchenyang/smalldiffusion.
+If you want to explore the topic further, that repository is a good place to look.
 
 ---
 
