@@ -16,9 +16,7 @@ Example datasets:
 
 - Barnsley Fern
 - Sierpinski Triangle
-- Spiral
 - Koch Snowflake
-- Mandelbrot Set
 - Swiss Roll
 
 Here is a sample of the datasets used:
